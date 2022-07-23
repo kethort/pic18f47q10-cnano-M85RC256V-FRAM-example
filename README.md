@@ -2,13 +2,13 @@
 PIC18 M85RC256V FRAM
 
 <p align="center">
-  <img src="/img/RW_EEPROM.PNG" height="500" width="500"/>
+  <img src="/img/RW_EEPROM.PNG" height="500" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="/img/W_EEPROM.PNG" height="500" width="500"/>
+  <img src="/img/W_EEPROM.PNG" height="500" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="/img/R_EEPROM.PNG" height="500" width="500"/>
+  <img src="/img/R_EEPROM.PNG" height="500" width="1000"/>
 </p>
