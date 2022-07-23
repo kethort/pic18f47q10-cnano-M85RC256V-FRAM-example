@@ -34,7 +34,7 @@ void main(void)
     FRAM_ReadNBytes(0x00, &framDataArray[0], DATA_NUM_BYTES);
 
     for (uint16_t i = 0; i < DATA_NUM_BYTES; i++) {
-        printf("framDataArray[%d]\n: ", framDataArray[i]);
+        printf("framDataArray[%d]: %x\n ", i, framDataArray[i]);
     }
     
     while(1);
